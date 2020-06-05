@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Jared Johnson <jared@jaredjohnson.dev>",
   "license": "MIT",
+  "scripts": {
+    "test": "yarn jest --logHeapUsage --runInBand",
+    "test-expose": "node --expose-gc ./node_modules/.bin/jest --logHeapUsage --runInBand"
+  },
   "dependencies": {
     "jest": "^26.0.1"
   }
