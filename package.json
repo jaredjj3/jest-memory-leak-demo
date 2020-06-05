@@ -1,0 +1,8 @@
+{
+  "name": "jest-memory-leak-demo",
+  "version": "1.0.0",
+  "description": "Jest memory leak demo for https://github.com/facebook/jest/issues/7874",
+  "main": "index.js",
+  "author": "Jared Johnson <jared@jaredjohnson.dev>",
+  "license": "MIT"
+}
