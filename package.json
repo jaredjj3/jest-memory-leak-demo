@@ -7,7 +7,10 @@
   "license": "MIT",
   "scripts": {
     "test": "yarn jest --logHeapUsage --runInBand",
-    "test-expose": "node --expose-gc ./node_modules/.bin/jest --logHeapUsage --runInBand"
+    "test-expose": "node --expose-gc ./node_modules/.bin/jest --logHeapUsage --runInBand",
+    "docker": "docker build -t jest-memory-leak-demo:latest . && docker run -it --rm jest-memory-leak-demo:latest",
+    "docker-test": "yarn docker test",
+    "docker-test-expose": "yarn docker test-expose"
   },
   "dependencies": {
     "jest": "^26.0.1"
