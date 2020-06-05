@@ -1,1 +1,1 @@
-export const identity = (x) => x;
+export default undefined
