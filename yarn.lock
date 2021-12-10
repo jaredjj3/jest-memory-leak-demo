@@ -1732,7 +1732,7 @@ jest-changed-files@^22.2.0:
   dependencies:
     throat "^4.0.0"
 
-jest-cli@^22.0.6:
+jest-cli@^22.0.4:
   version "22.4.4"
   resolved "https://registry.yarnpkg.com/jest-cli/-/jest-cli-22.4.4.tgz#68cd2a2aae983adb1e6638248ca21082fd6d9e90"
   integrity sha512-I9dsgkeyjVEEZj9wrGrqlH+8OlNob9Iptyl+6L5+ToOLJmHm4JwOPatin1b2Bzp5R5YRQJ+oiedx7o1H7wJzhA==
@@ -2001,12 +2001,12 @@ jest-worker@^22.2.2, jest-worker@^22.4.3:
   dependencies:
     merge-stream "^1.0.1"
 
-jest@22.0.6:
-  version "22.0.6"
-  resolved "https://registry.yarnpkg.com/jest/-/jest-22.0.6.tgz#0d0d3bdc402c43cf5a3eae58a55cff6da8b6820f"
-  integrity sha512-tPYm3nE0ytzUWhEnGWQpCaS7KrOw7Fz9R0YHjW7NKeVyYa3yjg3tOynUBhYWVUp4x1uZHw3mCGZTGp14QPFZnQ==
+jest@22.0.4:
+  version "22.0.4"
+  resolved "https://registry.yarnpkg.com/jest/-/jest-22.0.4.tgz#d3cf560ece6b825b115dce80b9826ceb40f87961"
+  integrity sha512-S0tmgK5psULvt/11QzgAZWGpY5y5TkMRzd3T21Q13JzTx37Vx6F0Nw022c9Kc/IbEy+AHkKkGFVO5QafE8MrDg==
   dependencies:
-    jest-cli "^22.0.6"
+    jest-cli "^22.0.4"
 
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
