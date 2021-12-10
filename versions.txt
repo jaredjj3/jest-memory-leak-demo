@@ -167,7 +167,7 @@
 23.0.0-alpha.2
 23.0.0-alpha.4
 23.0.0-alpha.5
-23.0.0-alpha.7
+23.0.0-alpha.7 (12) HAS MEMORY LEAK: first=40, last=154, min=38, max=154
 23.0.0-alpha.3r
 23.0.0-alpha.5r
 23.0.0-alpha.6r
