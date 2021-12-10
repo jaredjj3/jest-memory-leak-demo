@@ -13,6 +13,9 @@
     "docker-test-expose": "yarn docker test-expose"
   },
   "dependencies": {
-    "jest": "23.0.0"
+    "jest": "22.4.4"
+  },
+  "jest": {
+    "testURL": "http://localhost/"
   }
 }
