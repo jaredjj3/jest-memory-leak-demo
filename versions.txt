@@ -145,7 +145,7 @@
 22.0.0
 22.0.1
 22.0.2 (2) DOES NOT HAVE MEMORY LEAK: first=54, last=59, min=38, max=79
-22.0.3
+22.0.3 (9) HAS MEMORY LEAK: first=39, last=62, min=32, max=80
 22.0.4 (8) HAS MEMORY LEAK: first=39, last=62, min=32, max=79
 22.0.5
 22.0.6 (7) HAS MEMORY LEAK: first=39, last=62, min=35, max=71
