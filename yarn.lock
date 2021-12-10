@@ -1743,7 +1743,7 @@ jest-changed-files@^23.4.2:
   dependencies:
     throat "^4.0.0"
 
-jest-cli@^23.0.0-alpha.7:
+jest-cli@^23.0.0-alpha.4:
   version "23.6.0"
   resolved "https://registry.yarnpkg.com/jest-cli/-/jest-cli-23.6.0.tgz#61ab917744338f443ef2baa282ddffdd658a5da4"
   integrity sha512-hgeD1zRUp1E1zsiyOXjEn4LzRLWdJBV//ukAHGlx6s5mfCNJTbhbHjgxnDUXA8fsKWN/HqFFF6X5XcCwC/IvYQ==
@@ -2045,13 +2045,13 @@ jest-worker@^23.2.0:
   dependencies:
     merge-stream "^1.0.1"
 
-jest@23.0.0-alpha.7:
-  version "23.0.0-alpha.7"
-  resolved "https://registry.yarnpkg.com/jest/-/jest-23.0.0-alpha.7.tgz#81d13530ac16c8b25cf785c83c44f954019335af"
-  integrity sha1-gdE1MKwWyLJc94XIPET5VAGTNa8=
+jest@23.0.0-alpha.4:
+  version "23.0.0-alpha.4"
+  resolved "https://registry.yarnpkg.com/jest/-/jest-23.0.0-alpha.4.tgz#470f3068f11a7abd51e0f95c0f867a0e028afc31"
+  integrity sha1-Rw8waPEaer1R4PlcD4Z6DgKK/DE=
   dependencies:
     import-local "^1.0.0"
-    jest-cli "^23.0.0-alpha.7"
+    jest-cli "^23.0.0-alpha.4"
 
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
