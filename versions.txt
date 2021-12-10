@@ -180,7 +180,7 @@
 23.0.0-charlie.2
 23.0.0-charlie.3
 23.0.0-charlie.4
-23.0.0
+23.0.0 (4) HAS MEMORY LEAK: first=44, last=141, min=44, max=150
 23.0.1
 23.1.0
 23.2.0

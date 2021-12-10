@@ -13,6 +13,6 @@
     "docker-test-expose": "yarn docker test-expose"
   },
   "dependencies": {
-    "jest": "24.8.0"
+    "jest": "23.0.0"
   }
 }
