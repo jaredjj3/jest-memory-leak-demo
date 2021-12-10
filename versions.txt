@@ -144,7 +144,7 @@
 21.3.0-beta.15
 22.0.0
 22.0.1
-22.0.2
+22.0.2 (2) DOES NOT HAVE MEMORY LEAK: first=54, last=59, min=38, max=79
 22.0.3
 22.0.4
 22.0.5
