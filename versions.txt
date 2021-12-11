@@ -163,9 +163,10 @@
 22.4.2
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+https://github.com/facebook/jest/tags?after=v23.0.1
 22.4.3 (15) DOES NOT HAVE MEMORY LEAK: first=39, last=63, min=35, max=79
-22.4.4 (5) HAS MEMORY LEAK: first=35, last=72, min=35, max=72, EDIT: DOES NOT HAVE MEMORY LEAK
-23.0.0-alpha.1 (14) HAS MEMORY LEAK: first=40, last=142, min=40, max=152
+22.4.4 (5) HAS MEMORY LEAK: first=35, last=72, min=35, max=72, EDIT: DOES NOT HAVE MEMORY LEAK, @cb7f93a4cc5f61f85512dbf5e704cde2dc4ee80a
+23.0.0-alpha.1 (14) HAS MEMORY LEAK: first=40, last=142, min=40, max=152, @df34b204c3aa8dfc3a05d19039c6d538cbce9135
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 23.0.0-alpha.2
